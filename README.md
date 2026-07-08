@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 <!---LeetCode Topics End-->
