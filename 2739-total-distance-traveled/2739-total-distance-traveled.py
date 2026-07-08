@@ -1,0 +1,19 @@
+class Solution(object):
+    def distanceTraveled(self, mainTank, additionalTank):
+        distance = 0
+
+        while mainTank >= 5:
+           
+            mainTank -= 5
+            distance += 50
+
+        
+            if additionalTank > 0:
+                mainTank += 1
+                additionalTank -= 1
+
+    
+        distance += mainTank * 10
+
+        return distance
+        
