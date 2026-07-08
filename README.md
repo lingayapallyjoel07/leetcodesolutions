@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
