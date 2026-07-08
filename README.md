@@ -17,10 +17,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3516-find-closest-person](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3516-find-closest-person/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0414-third-maximum-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
