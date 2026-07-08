@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 | [2739-total-distance-traveled](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2739-total-distance-traveled/) | Easy |
 | [3516-find-closest-person](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3516-find-closest-person/) | Easy |
 ## Sorting
@@ -34,10 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 | [2739-total-distance-traveled](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2739-total-distance-traveled/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
