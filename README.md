@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2739-total-distance-traveled](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2739-total-distance-traveled/) | Easy |
 | [3516-find-closest-person](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3516-find-closest-person/) | Easy |
@@ -39,4 +40,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
