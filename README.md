@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
@@ -55,4 +56,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
