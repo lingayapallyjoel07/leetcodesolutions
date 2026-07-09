@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2739-total-distance-traveled](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2739-total-distance-traveled/) | Easy |
 | [3516-find-closest-person](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3516-find-closest-person/) | Easy |
 ## Sorting
