@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0011-container-with-most-water/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 <!---LeetCode Topics End-->
