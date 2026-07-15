@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## String Matching
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
