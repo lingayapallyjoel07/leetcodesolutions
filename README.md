@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -109,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
