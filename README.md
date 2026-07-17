@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0137-single-number-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0867-transpose-matrix](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Recursion
