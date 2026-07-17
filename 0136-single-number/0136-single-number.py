@@ -1,10 +1,7 @@
-class Solution(object):
-    def singleNumber(self, nums):
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
         for i in nums:
             if nums.count(i)==1:
                 return i
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
+                break
         
