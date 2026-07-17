@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0414-third-maximum-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -73,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
+| [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
