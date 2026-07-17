@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0043-multiply-strings/) | Medium |
+| [0125-valid-palindrome](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
