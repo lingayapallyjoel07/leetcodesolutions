@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0441-arranging-coins/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [2739-total-distance-traveled](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2739-total-distance-traveled/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0069-sqrtx/) | Easy |
+| [0441-arranging-coins](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0441-arranging-coins/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
