@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1816-truncate-sentence/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0867-transpose-matrix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2739-total-distance-traveled](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2739-total-distance-traveled/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
