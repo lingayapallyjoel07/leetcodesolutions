@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0575-distribute-candies](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0575-distribute-candies/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0414-third-maximum-number/) | Easy |
 ## String
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
