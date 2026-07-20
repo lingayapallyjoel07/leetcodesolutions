@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1572-matrix-diagonal-sum](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1816-truncate-sentence/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0575-distribute-candies](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0575-distribute-candies/) | Easy |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1534-count-good-triplets/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,8 +141,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0053-maximum-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 <!---LeetCode Topics End-->
