@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0575-distribute-candies/) | Easy |
 | [0867-transpose-matrix](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1534-count-good-triplets](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1816-truncate-sentence/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1534-count-good-triplets](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1534-count-good-triplets/) | Easy |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
