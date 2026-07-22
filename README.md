@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
