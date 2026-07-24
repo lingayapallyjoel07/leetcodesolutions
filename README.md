@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0575-distribute-candies](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0575-distribute-candies/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0867-transpose-matrix](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1534-count-good-triplets](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1534-count-good-triplets/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0575-distribute-candies](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0575-distribute-candies/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0709-to-lower-case](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0709-to-lower-case/) | Easy |
 | [1816-truncate-sentence](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1816-truncate-sentence/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
