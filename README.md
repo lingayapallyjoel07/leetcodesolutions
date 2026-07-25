@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0575-distribute-candies](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0575-distribute-candies/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0771-jewels-and-stones](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Math
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0709-to-lower-case](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1816-truncate-sentence](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1816-truncate-sentence/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Simulation
