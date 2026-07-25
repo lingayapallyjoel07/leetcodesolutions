@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1534-count-good-triplets](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1929-concatenation-of-array](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2739-total-distance-traveled](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2739-total-distance-traveled/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
