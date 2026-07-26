@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0136-single-number](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0137-single-number-ii/) | Medium |
+| [0164-maximum-gap](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0049-group-anagrams/) | Medium |
+| [0164-maximum-gap](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -198,4 +201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
