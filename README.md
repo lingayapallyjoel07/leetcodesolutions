@@ -232,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
