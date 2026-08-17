@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
