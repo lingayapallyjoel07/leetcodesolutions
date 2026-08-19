@@ -12,7 +12,7 @@ class Solution(object):
         l=list(s)
         for i in ind:
             l[i]=vow1[-1]
-            vow1.pop(-1)
+            vow1.pop()
         s="".join(l)
         return s
 
