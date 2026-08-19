@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
