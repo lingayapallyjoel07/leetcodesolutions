@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0575-distribute-candies](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0575-distribute-candies/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
