@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0709-to-lower-case](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/lingayapallyjoel07/leetcodesolutions/tree/main/0771-jewels-and-stones/) | Easy |
